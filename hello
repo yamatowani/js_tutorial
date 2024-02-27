@@ -1,0 +1,2 @@
+#!/Users/uenoyamato/.nodebrew/current/bin/node
+console.log("Hello, World!");
